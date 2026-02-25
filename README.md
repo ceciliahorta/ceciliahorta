@@ -8,7 +8,14 @@
 
 🎓 Estudante de Ciência da Computação  
 💻 Apaixonada por tecnologia, desenvolvimento web e segurança da informação  
-🚀 Buscando sempre aprender e evoluir como dev
+🚀 Foco em segurança da informação
+
+### 💻 Sobre mim
+
+Estudante de Tecnologia da Informação com foco em Segurança da Informação e Cybersecurity.
+Busco desenvolver base sólida em redes, criptografia e automação com Python, aplicando a prática em projetos e laboratórios.
+Utilizo a plataforma TryHackMe para aprender e praticar conceitos de segurança da informação.
+
 
 ### 🛠️ Tecnologias e Ferramentas
 
