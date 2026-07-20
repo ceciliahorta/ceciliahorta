@@ -1,23 +1,15 @@
 ## Olá! Sou a Maria Cecília Vandam Horta👋
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ceciliahorta&show_icons=true&theme=radical&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliahorta&layout=compact&theme=radical" />
-</p>
+### Sobre mim
 
-
-🎓 Estudante de Ciência da Computação  
-💻 Apaixonada por tecnologia, desenvolvimento web e segurança da informação  
-🚀 Foco em segurança da informação
-
-### 💻 Sobre mim
-
-Estudante de Tecnologia da Informação com foco em Segurança da Informação e Cybersecurity.
+Estudante de Ciências da Computação com foco em Segurança da Informação e Cybersecurity.
 Busco desenvolver base sólida em redes, criptografia e automação com Python, aplicando a prática em projetos e laboratórios.
 Utilizo a plataforma TryHackMe para aprender e praticar conceitos de segurança da informação.
 
+Participei de programas de formação em Desenvolvimento Web com foco em Frontend, onde aprendi HTML semântico, CSS resposivo, JavaScript e React.
 
-### 🛠️ Tecnologias e Ferramentas
+
+### Tecnologias e Ferramentas
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat-square&logo=css3&logoColor=1572B6)
