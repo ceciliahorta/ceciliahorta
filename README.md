@@ -1,4 +1,4 @@
-## Olá! Sou a Maria Cecília Vandam Horta👋
+### Maria Cecília Vandam Horta
 
 ### Sobre mim
 
@@ -10,9 +10,8 @@ Participei de programas de formação em Desenvolvimento Web com foco em Fronten
 
 ### Contato
 
-Linkedin: https://www.linkedin.com/in/mariacec%C3%ADlia-vandam/
-
-TryHackMe: https://tryhackme.com/p/Cissa
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](...)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme)](...)
 
 ### Tecnologias e Ferramentas
 
