@@ -8,6 +8,10 @@ Utilizo a plataforma TryHackMe para aprender e praticar conceitos de segurança 
 
 Participei de programas de formação em Desenvolvimento Web com foco em Frontend, onde aprendi HTML semântico, CSS resposivo, JavaScript e React.
 
+### Contato
+
+Linkedin: https://www.linkedin.com/in/mariacec%C3%ADlia-vandam/
+TryHackMe: https://tryhackme.com/p/Cissa
 
 ### Tecnologias e Ferramentas
 
